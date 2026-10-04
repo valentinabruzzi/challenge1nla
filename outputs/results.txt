@@ -1,0 +1,24 @@
+image_rows_m: 656
+image_cols_n: 656
+mn: 430336
+v_size: 430336
+w_size: 430336
+euclidean_norm_v: 41415.34120347193
+A1_nonzeros: 3865156
+A2_nonzeros: 2149056
+A2_symmetry_norm: 2621.999237223382
+A2_is_symmetric: no
+A3_nonzeros: 2575460
+A3_symmetry_norm: 4540.281929572216
+A3_is_symmetric: no
+Eigen_solver: BiCGSTAB with DiagonalPreconditioner and initial guess w/4
+Eigen_tolerance: 1e-10
+Eigen_iterations: 46
+Eigen_reported_residual: 3.969232130651913e-11
+Eigen_true_relative_residual: 3.969232159708876e-11
+Eigen_elapsed_seconds: 0.175917625
+LIS_solver: BiCGSTAB
+LIS_preconditioner: ILU(0)
+LIS_tolerance: 1e-12
+LIS_iterations: 17
+LIS_final_relative_residual: 8.043209e-13
